@@ -85,7 +85,6 @@ function PrintCraftTime()
             local ui = superUI[elName] or superUI.add{type = "frame", name = elName, caption = "", direction = "horizontal", style = mod_gui.frame_style}
             
             if ui then
-                ui.style.bottom_padding = 4
                 local time = GetPlayerCraftTime(player)
                 DecrementPlayerCraftTime(player)
                 ui.caption = ((time > 0.1) and ("Crafting Time: " .. FormatTime(time)) or "")

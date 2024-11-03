@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2024-11-03
+  Additions:
+    - Add changelog.txt
+  Bugfixes:
+    - Fixed crafting queue not expanding. (Thanks to @lassethorlepik in https://github.com/H4ckerxx44/handcraft_timer/pull/1 on GitHub)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-10-22
+  Changes:
+    - Lazily ported to 2.0 / Space Age

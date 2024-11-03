@@ -1,7 +1,7 @@
 {
-  "name": "handcraft_timer",
+  "name": "handcraft_timer_space_age",
   "version": "1.0.1",
-  "title": "HandCraft Timer",
+  "title": "HandCraft Timer Space Age",
   "author": "SirHall, H4ckerxx44",
   "factorio_version": "2.0",
   "dependencies": ["base >= 2.0.0"],
